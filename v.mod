@@ -1,5 +1,5 @@
 Module {
-	name: 'vtest'
+	name: 'v-db-compare'
 	description: ''
 	version: '0.0.1'
 	license: 'MIT'
